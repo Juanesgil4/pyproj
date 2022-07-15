@@ -1,0 +1,23 @@
+2022-Jul-15-02:28:46,ETL Job Started
+2022-Jul-15-02:28:47,Extract phase Started
+2022-Jul-15-02:28:48,Extract phase Ended
+2022-Jul-15-02:28:55,Transform phase Started
+2022-Jul-15-02:28:55,Transform phase Ended
+2022-Jul-15-02:28:58,Load phase Started
+2022-Jul-15-02:28:58,Load phase Ended
+2022-Jul-15-02:29:02,ETL Job Ended
+2022-Jul-15-03:46:12,ETL Job Started
+2022-Jul-15-03:46:12,Extract phase Started
+2022-Jul-15-03:46:48,Extract phase Ended
+2022-Jul-15-03:46:48,,Name,Market Cap (US$ Billion)
+0,JPMorgan Chase,390.934
+1,Industrial and Commercial Bank of China,345.214
+2,Bank of America,325.331
+3,Wells Fargo,308.013
+4,China Construction Bank,257.399
+
+2022-Jul-15-03:46:54,Transform phase Started
+2022-Jul-15-03:50:37,Transform phase Ended
+2022-Jul-15-03:50:42,Load Job Started
+2022-Jul-15-03:51:03,Load Job Ended
+2022-Jul-15-03:51:03,ETL Job Ended
